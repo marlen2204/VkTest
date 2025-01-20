@@ -91,18 +91,6 @@ docs = ["ipython", "matplotlib", "numpydoc", "sphinx"]
 tests = ["pytest", "pytest-cov", "pytest-xdist"]
 
 [[package]]
-name = "fio"
-version = "0.0.6"
-description = "Feature I/O for TensorFlow"
-optional = false
-python-versions = "*"
-groups = ["main"]
-files = [
-    {file = "fio-0.0.6-py3-none-any.whl", hash = "sha256:8ec7c94a0a719f406991cf551680d0cceb82bab25664598e82f5dff1232675d2"},
-    {file = "fio-0.0.6.tar.gz", hash = "sha256:7deed7b1d9f8f4f32ffd82cf521137caef4c43385867e7a91de5dbff41a8e17b"},
-]
-
-[[package]]
 name = "fonttools"
 version = "4.55.3"
 description = "Tools to manipulate font files"
@@ -535,4 +523,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.11"
-content-hash = "fbd880ce7e2c2a90b6e209512da7542eab8a2a2718bdf5a782882907adb931bd"
+content-hash = "9388efcb3a5300975de463c15dfd908b3efd1a5e6d07d181973f5b2cfa95a443"

@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 matplotlib = "^3.10.0"
-fio = "^0.0.6"
 
 
 [build-system]
