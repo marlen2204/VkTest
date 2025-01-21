@@ -51,7 +51,7 @@ class Plotter:
             print(f"График успешно сохранен в {self.output_file}")
         except subprocess.CalledProcessError as e:
             print(f"Ошибка выполнения gnuplot: {e}")
-#        finally:
-#           os.remove(randread_file)
-#           os.remove(randwrite_file)
-#           os.remove(gnuplot_script)
+        finally:
+           os.remove(randread_file)
+           os.remove(randwrite_file)
+           os.remove(gnuplot_script)
