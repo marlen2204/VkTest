@@ -100,7 +100,7 @@ poetry run python main.py --name=mytest --filename=testfile --output=output.png
 
 В результате выполнения команды вы получите примерно следующие графики:
 
-![Получившиеся графики после тестирования](https://github.com/marlen2204/blktest/raw/master/images/output_1gb.png)
+![Получившиеся графики после тестирования](https://github.com/marlen2204/blktest/blob/main/images/output_1gb.png)
 
 
 **Контакты**
