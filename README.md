@@ -18,9 +18,9 @@
 
 Склонируйте репозиторий в локальную директорию:
 ``` 
-git clone https://github.com/marlen2204/VkTest.git
+git clone https://github.com/marlen2204/blktest.git
 ```
-Затем перейдите в папку VkTest/vktest
+Затем перейдите в папку src
 
 **Установка зависимостей**
 
@@ -95,6 +95,13 @@ poetry run python main.py --name=mytest --filename=testfile --output=output.png
 • **Linux**: Используется `libaio`.
 
 Эти изменения применяются автоматически в зависимости от операционной системы.
+
+**Результат**
+
+В результате выполнения команды вы получите примерно следующие графики:
+
+![Получившиеся графики после тестирования]()https://github.com/marlen2204/blktest/raw/master/images/output_1gb.png)
+
 
 **Контакты**
 
